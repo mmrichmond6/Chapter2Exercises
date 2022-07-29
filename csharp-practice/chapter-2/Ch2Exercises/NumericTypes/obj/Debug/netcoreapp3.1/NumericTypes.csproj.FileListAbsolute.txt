@@ -1,0 +1,13 @@
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\NumericTypes\bin\Debug\netcoreapp3.1\NumericTypes.exe
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\NumericTypes\bin\Debug\netcoreapp3.1\NumericTypes.deps.json
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\NumericTypes\bin\Debug\netcoreapp3.1\NumericTypes.runtimeconfig.json
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\NumericTypes\bin\Debug\netcoreapp3.1\NumericTypes.runtimeconfig.dev.json
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\NumericTypes\bin\Debug\netcoreapp3.1\NumericTypes.dll
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\NumericTypes\bin\Debug\netcoreapp3.1\NumericTypes.pdb
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\NumericTypes\obj\Debug\netcoreapp3.1\NumericTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\NumericTypes\obj\Debug\netcoreapp3.1\NumericTypes.AssemblyInfoInputs.cache
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\NumericTypes\obj\Debug\netcoreapp3.1\NumericTypes.AssemblyInfo.cs
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\NumericTypes\obj\Debug\netcoreapp3.1\NumericTypes.csproj.CoreCompileInputs.cache
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\NumericTypes\obj\Debug\netcoreapp3.1\NumericTypes.dll
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\NumericTypes\obj\Debug\netcoreapp3.1\NumericTypes.pdb
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\NumericTypes\obj\Debug\netcoreapp3.1\NumericTypes.genruntimeconfig.cache

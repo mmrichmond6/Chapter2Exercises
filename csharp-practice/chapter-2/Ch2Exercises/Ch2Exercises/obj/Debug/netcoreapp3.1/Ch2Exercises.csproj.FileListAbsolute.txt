@@ -1,0 +1,14 @@
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\Ch2Exercises\bin\Debug\netcoreapp3.1\Ch2Exercises.exe
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\Ch2Exercises\bin\Debug\netcoreapp3.1\Ch2Exercises.deps.json
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\Ch2Exercises\bin\Debug\netcoreapp3.1\Ch2Exercises.runtimeconfig.json
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\Ch2Exercises\bin\Debug\netcoreapp3.1\Ch2Exercises.runtimeconfig.dev.json
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\Ch2Exercises\bin\Debug\netcoreapp3.1\Ch2Exercises.dll
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\Ch2Exercises\bin\Debug\netcoreapp3.1\Ch2Exercises.pdb
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\Ch2Exercises\obj\Debug\netcoreapp3.1\Ch2Exercises.csproj.AssemblyReference.cache
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\Ch2Exercises\obj\Debug\netcoreapp3.1\Ch2Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\Ch2Exercises\obj\Debug\netcoreapp3.1\Ch2Exercises.AssemblyInfoInputs.cache
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\Ch2Exercises\obj\Debug\netcoreapp3.1\Ch2Exercises.AssemblyInfo.cs
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\Ch2Exercises\obj\Debug\netcoreapp3.1\Ch2Exercises.csproj.CoreCompileInputs.cache
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\Ch2Exercises\obj\Debug\netcoreapp3.1\Ch2Exercises.dll
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\Ch2Exercises\obj\Debug\netcoreapp3.1\Ch2Exercises.pdb
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\Ch2Exercises\obj\Debug\netcoreapp3.1\Ch2Exercises.genruntimeconfig.cache

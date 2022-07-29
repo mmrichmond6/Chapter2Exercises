@@ -1,0 +1,14 @@
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\MilesPerGallon\bin\Debug\netcoreapp3.1\MilesPerGallon.exe
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\MilesPerGallon\bin\Debug\netcoreapp3.1\MilesPerGallon.deps.json
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\MilesPerGallon\bin\Debug\netcoreapp3.1\MilesPerGallon.runtimeconfig.json
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\MilesPerGallon\bin\Debug\netcoreapp3.1\MilesPerGallon.runtimeconfig.dev.json
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\MilesPerGallon\bin\Debug\netcoreapp3.1\MilesPerGallon.dll
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\MilesPerGallon\bin\Debug\netcoreapp3.1\MilesPerGallon.pdb
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\MilesPerGallon\obj\Debug\netcoreapp3.1\MilesPerGallon.csproj.AssemblyReference.cache
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\MilesPerGallon\obj\Debug\netcoreapp3.1\MilesPerGallon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\MilesPerGallon\obj\Debug\netcoreapp3.1\MilesPerGallon.AssemblyInfoInputs.cache
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\MilesPerGallon\obj\Debug\netcoreapp3.1\MilesPerGallon.AssemblyInfo.cs
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\MilesPerGallon\obj\Debug\netcoreapp3.1\MilesPerGallon.csproj.CoreCompileInputs.cache
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\MilesPerGallon\obj\Debug\netcoreapp3.1\MilesPerGallon.dll
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\MilesPerGallon\obj\Debug\netcoreapp3.1\MilesPerGallon.pdb
+C:\Users\mmric\Documents\csharp-practice\chapter-2\Ch2Exercises\MilesPerGallon\obj\Debug\netcoreapp3.1\MilesPerGallon.genruntimeconfig.cache
